@@ -7,9 +7,6 @@ React focuses mainly on the View layer of an application (MVC architecture), mea
 ## Definition of React JS
 React JS is an open-source, component-based JavaScript library used to create dynamic and high-performance user interfaces using a virtual DOM.
  
-In simple words, **React helps us design what users see on the screen**, such as buttons, text, forms, and pages.  
-It is mainly used to create **single-page applications (SPAs)**, where the page does not reload again and again.
-
 👉 **Beginner tip:**  
 React works only on the **UI part (frontend)** of an application.
 

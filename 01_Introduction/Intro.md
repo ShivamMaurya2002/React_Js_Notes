@@ -51,7 +51,7 @@ React is widely used because it makes UI development easier, faster, and more or
 
 <b> Example: </b> <br>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; function Button() { <br>
+&nbsp; &nbsp; &nbsp; function Button() { <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; return &lt;button&gt; Click Me &lt;/button&gt;; <br>
 &nbsp; &nbsp; &nbsp; } <br>
 

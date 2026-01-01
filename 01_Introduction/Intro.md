@@ -30,15 +30,12 @@ React is widely used because it makes UI development easier, faster, and more or
 
 ---
 
-### 2. Fast Performance with Virtual DOM  
-React uses a **Virtual DOM**, which is a lightweight copy of the real browser DOM.
+### Key Features of React JS  <br><br>
 
-When data changes:
-- React checks which part of the UI has changed  
-- Updates only that specific part  
-- Does not reload the full page  
-
-👉 This makes React applications **fast and smooth**.
+1️⃣ Component-Based Architecture <br>
+&nbsp; &nbsp; &nbsp; 🔹UI is divided into small, reusable components. <br>
+&nbsp; &nbsp; &nbsp; 🔹Each component has its own logic and UI. <br>
+&nbsp; &nbsp; &nbsp; 🔹Improves code reusability and maintainability. <br>
 
 ---
 

@@ -1,4 +1,3 @@
-<>
-<li className="blank"></li>
-<div className="main"></div>
-</> 
+function Hello() {
+  return <h1>Hello React</h1>;
+}

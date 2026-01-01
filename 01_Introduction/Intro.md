@@ -40,23 +40,20 @@ React is widely used because it makes UI development easier, faster, and more or
 <b> Example: </b> <br>
 
 function Button() { <br>
-  return <button>Click Me</button>; <br>
-}
+  return &lt;button&gt; Click Me &lt;/button&gt;; <br>
+} <br>
 
 2️⃣ Virtual DOM<br>
 &nbsp; &nbsp; &nbsp; 🔹React creates a virtual copy of the real DOM.<br>
 &nbsp; &nbsp; &nbsp; 🔹Changes are first applied to the virtual DOM.<br>
 &nbsp; &nbsp; &nbsp; 🔹React compares (diffing) and updates only the changed parts.<br>
-&nbsp; &nbsp; &nbsp; 🔹Results in faster performance.<br>
+&nbsp; &nbsp; &nbsp; 🔹Results in faster performance.<br> 
 
 <b> Example: </b> <br>
 
 function Button() { <br>
-  return <button>Click Me</button>; <br>
-}
-
-
-
+  return &lt;button&gt; Click Me &lt;/button&gt;; <br>
+} <br>
 
 3️⃣ JSX (JavaScript XML) <br>
 &nbsp; &nbsp; &nbsp; 🔹JSX allows writing HTML inside JavaScript.<br>

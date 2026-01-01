@@ -59,6 +59,28 @@ function Button() { <br>
 &nbsp; &nbsp; &nbsp; 🔹JSX allows writing HTML inside JavaScript.<br>
 &nbsp; &nbsp; &nbsp; 🔹Makes code more readable and expressive.<br>
 
+<b> Example: </b> <br>
+
+const element = &lt;h1&gt;Hello React&lt;/h1&gt;; <br>
+
+4️⃣ One-Way Data Binding <br>
+&nbsp; &nbsp; &nbsp; 🔹Data flows from parent to child.<br>
+&nbsp; &nbsp; &nbsp; 🔹Makes application more predictable.<br>
+&nbsp; &nbsp; &nbsp; 🔹Easier debugging and testing.<br>
+
+5️⃣ State and Props <br>
+State: Manages component’s internal data.<br>
+Props: Pass data from parent to child components.<br>
+
+6️⃣ Hooks <br>
+Introduced in React 16.8.<br>
+Allow using state and lifecycle features in functional components.<br><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;🔹Common Hooks:<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;🔹useState<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;🔹useEffect<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;🔹useContext<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;🔹useRef<br>
+
 ---
 
 ## Who Developed React?

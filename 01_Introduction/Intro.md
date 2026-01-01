@@ -74,12 +74,12 @@ Props: Pass data from parent to child components.<br>
 
 6️⃣ Hooks <br>
 Introduced in React 16.8.<br>
-Allow using state and lifecycle features in functional components.<br><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;🔹Common Hooks:<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;🔹useState<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;🔹useEffect<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;🔹useContext<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;🔹useRef<br>
+Allow using state and lifecycle features in functional components.<br>
+🔹Common Hooks:<br>
+&nbsp; &nbsp; &nbsp; 🔹useState<br>
+&nbsp; &nbsp; &nbsp; 🔹useEffect<br>
+&nbsp; &nbsp; &nbsp; 🔹useContext<br>
+&nbsp; &nbsp; &nbsp; 🔹useRef<br>
 
 ---
 

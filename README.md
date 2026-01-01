@@ -77,11 +77,3 @@ Before starting React, basic knowledge of:
   - Array methods (map, filter, reduce)
 
 ---
-
-## ⚙️ Installation & Setup
-
-### Using Create React App
-```bash
-npx create-react-app my-app
-cd my-app
-npm start

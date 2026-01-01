@@ -39,9 +39,9 @@ React is widely used because it makes UI development easier, faster, and more or
 
 <b> Example: </b> <br>
 
-function Button() { <br>
-  return &lt;button&gt; Click Me &lt;/button&gt;; <br>
-} <br>
+&nbsp; &nbsp; &nbsp; function Button() { <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; return &lt;button&gt; Click Me &lt;/button&gt;; <br>
+&nbsp; &nbsp; &nbsp; } <br>
 
 2️⃣ Virtual DOM<br>
 &nbsp; &nbsp; &nbsp; 🔹React creates a virtual copy of the real DOM.<br>
@@ -51,9 +51,9 @@ function Button() { <br>
 
 <b> Example: </b> <br>
 
-function Button() { <br>
-  return &lt;button&gt; Click Me &lt;/button&gt;; <br>
-} <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; function Button() { <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; return &lt;button&gt; Click Me &lt;/button&gt;; <br>
+&nbsp; &nbsp; &nbsp; } <br>
 
 3️⃣ JSX (JavaScript XML) <br>
 &nbsp; &nbsp; &nbsp; 🔹JSX allows writing HTML inside JavaScript.<br>
@@ -61,7 +61,7 @@ function Button() { <br>
 
 <b> Example: </b> <br>
 
-const element = &lt;h1&gt;Hello React&lt;/h1&gt;; <br>
+&nbsp; &nbsp; &nbsp; const element = &lt;h1&gt;Hello React&lt;/h1&gt;; <br>
 
 4️⃣ One-Way Data Binding <br>
 &nbsp; &nbsp; &nbsp; 🔹Data flows from parent to child.<br>

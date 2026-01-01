@@ -55,11 +55,7 @@ function Button() { <br>
   return <button>Click Me</button>; <br>
 }
 
-2️⃣ Virtual DOM <br>
-&nbsp; &nbsp; &nbsp; 🔹React creates a virtual copy of the real DOM.<br>
-&nbsp; &nbsp; &nbsp; 🔹Changes are first applied to the virtual DOM.<br>
-&nbsp; &nbsp; &nbsp; 🔹React compares (diffing) and updates only the changed parts.<br>
-&nbsp; &nbsp; &nbsp; 🔹Results in faster performance.<br>
+
 
 
 3️⃣ JSX (JavaScript XML) <br>

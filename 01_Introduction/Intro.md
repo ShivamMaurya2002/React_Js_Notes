@@ -1,7 +1,11 @@
 # Introduction to React
+React JS is a JavaScript library used for building fast, interactive, and reusable user interfaces, especially for single-page applications (SPAs).
+It was developed by Facebook (Meta) and is widely used by companies like Netflix, Instagram, WhatsApp, Airbnb, and Uber.
 
-## What is React?
-React is an open-source JavaScript library that is used to build user interfaces (UI) for web applications.
+React focuses mainly on the View layer of an application (MVC architecture), meaning it handles how the UI looks and behaves.
+
+## Definition of React JS
+React JS is an open-source, component-based JavaScript library used to create dynamic and high-performance user interfaces using a virtual DOM.
  
 In simple words, **React helps us design what users see on the screen**, such as buttons, text, forms, and pages.  
 It is mainly used to create **single-page applications (SPAs)**, where the page does not reload again and again.

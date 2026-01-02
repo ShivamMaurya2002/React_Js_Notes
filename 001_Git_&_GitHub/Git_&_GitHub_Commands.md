@@ -49,7 +49,7 @@
 <pre> git checkout branch_name <br> git checkout -b new-branch </pre> <br>
 
 **(VII). git remote:-** Connects the local repository to remote GitHub repository.<br>
-<pre> git remote add origin repo_url.git </pre> <br>
+<pre> git remote add origin "Your_repo_url".git </pre> <br>
 
 **(VIII). git push:-** Upload local commits to GitHub repository.<br>
 <pre> git push -u origin main </pre> <br>
@@ -58,7 +58,7 @@
 <pre> git pull origin main </pre> <br>
 
 **(X). git clone:-** Create a local copy of a GitHub repository.<br>
-<pre> git clone repo_url </pre> <br>
+<pre> git clone "source_repo_url" </pre> <br>
 
 **(XI). git rm:-** Remove all files from Git tracking and the project.<br>
 <pre> git rm File_Name </pre> <br>

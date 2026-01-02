@@ -9,11 +9,9 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3. Work safely without losing code.<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4. Collaborate with other Developers.<br>
 
-**In Simple Words:-**<br>
-&nbsp; &nbsp; &nbsp; Git helps us to manage and track code our code history. 
+**In Simple Words:-** Git helps us to manage and track code our code history. 
 
-**Interview:-**<br>
-&nbsp; &nbsp; &nbsp; Git is a Version Control System (VCS) that track changes in source code.<br>
+**Interview:-** Git is a Version Control System (VCS) that track changes in source code.<br>
  
 ---
 
@@ -24,16 +22,54 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3. Allow team collaborations.<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4. Provide features like <b>pull request</b> and <b>pull issues</b>.<br>
 
-**In Simple Words:-**<br>
-&nbsp; &nbsp; &nbsp; GitHub is a place where Git projects are stored online.
+**In Simple Words:-** GitHub is a place where Git projects are stored online.
 
-**Interview:-**<br>
-&nbsp; &nbsp; &nbsp; GitHub is a cloud-based platform used to host Git Repositories.
+**Interview:-** GitHub is a cloud-based platform used to host Git Repositories.
 
 ---
 
 ## Basic Git & GitHub Commands:- <br>
 
-**i. git init:-**<br>
-&nbsp; &nbsp; Initializes a new git repository in a project.<br>
-<pre> git init </pre>
+**(I). git init:-** Initializes a new git repository in a project.<br>
+<pre> git init </pre> <br><br>
+
+**(II). git status:-** Shows the current status of a files(modified, staged, untracked).<br>
+<pre> git status </pre> <br><br>
+
+**(III). git add:-** Add files to staging area before committing.<br>
+<pre> git add . <br> git add File_Name </pre> <br><br>
+
+**(IV). git commit:-** Save staged changes with a descriptive message.<br>
+<pre> git commit -m "Your_Message" </pre> <br><br>
+
+**(V). git log:-** Displays the commit history of the project.<br>
+<pre> git log <br> git log --oneline </pre> <br><br>
+
+**(VI). git branch:-** Switch the branch or connects a new branch.<br>
+<pre> git checkout branch_name <br> git checkout -b new-branch </pre> <br><br>
+
+**(VII). git remote:-** Connects the local repository to remote GitHub repository.<br>
+<pre> git remote add origin repo_url.git </pre> <br><br>
+
+**(VIII). git push:-** Upload local commits to GitHub repository.<br>
+<pre> git push -u origin main </pre> <br><br>
+
+**(IX). git pull:-** Fetches and merge changes from the remote repository.<br>
+<pre> git pull origin main </pre> <br><br>
+
+**(X). git clone:-** Create a local copy of a GitHub repository.<br>
+<pre> git clone repo_url </pre> <br><br>
+
+**(XI). git rm:-** Remove all files from Git tracking and the project.<br>
+<pre> git rm File_Name </pre> <br><br>
+
+**(XII). .gitignore:-** Specifies files and folders that Git should ignore.<br>
+<pre> node_models/ <br> .env </pre> <br><br>
+
+**(XIII). git fetch:-** Downloads changes from remote repository without merging.<br>
+<pre> git fetch <br> git fetch origin <br> git fetch origin main </pre> <br><br>
+
+**(XIV). git merge:-** Combines changes from one branch into another.<br>
+<pre> git merge branch_Name </pre> <br><br>
+
+---

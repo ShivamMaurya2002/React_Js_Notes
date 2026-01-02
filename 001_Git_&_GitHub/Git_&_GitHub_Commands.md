@@ -34,3 +34,6 @@
 
 ## Basic Git & GitHub Commands:- <br>
 
+**i. git init:-**<br>
+&nbsp; &nbsp; Initializes a new git repository in a project.<br>
+<pre> git init </pre>

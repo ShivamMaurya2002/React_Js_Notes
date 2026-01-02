@@ -31,45 +31,45 @@
 ## Basic Git & GitHub Commands:- <br>
 
 **(I). git init:-** Initializes a new git repository in a project.<br>
-<pre> git init </pre> <br><br>
+<pre> git init </pre> <br>
 
 **(II). git status:-** Shows the current status of a files(modified, staged, untracked).<br>
-<pre> git status </pre> <br><br>
+<pre> git status </pre> <br>
 
 **(III). git add:-** Add files to staging area before committing.<br>
-<pre> git add . <br> git add File_Name </pre> <br><br>
+<pre> git add . <br> git add File_Name </pre> <br>
 
 **(IV). git commit:-** Save staged changes with a descriptive message.<br>
-<pre> git commit -m "Your_Message" </pre> <br><br>
+<pre> git commit -m "Your_Message" </pre> <br>
 
 **(V). git log:-** Displays the commit history of the project.<br>
-<pre> git log <br> git log --oneline </pre> <br><br>
+<pre> git log <br> git log --oneline </pre> <br>
 
 **(VI). git branch:-** Switch the branch or connects a new branch.<br>
-<pre> git checkout branch_name <br> git checkout -b new-branch </pre> <br><br>
+<pre> git checkout branch_name <br> git checkout -b new-branch </pre> <br>
 
 **(VII). git remote:-** Connects the local repository to remote GitHub repository.<br>
-<pre> git remote add origin repo_url.git </pre> <br><br>
+<pre> git remote add origin repo_url.git </pre> <br>
 
 **(VIII). git push:-** Upload local commits to GitHub repository.<br>
-<pre> git push -u origin main </pre> <br><br>
+<pre> git push -u origin main </pre> <br>
 
 **(IX). git pull:-** Fetches and merge changes from the remote repository.<br>
-<pre> git pull origin main </pre> <br><br>
+<pre> git pull origin main </pre> <br>
 
 **(X). git clone:-** Create a local copy of a GitHub repository.<br>
-<pre> git clone repo_url </pre> <br><br>
+<pre> git clone repo_url </pre> <br>
 
 **(XI). git rm:-** Remove all files from Git tracking and the project.<br>
-<pre> git rm File_Name </pre> <br><br>
+<pre> git rm File_Name </pre> <br>
 
 **(XII). .gitignore:-** Specifies files and folders that Git should ignore.<br>
-<pre> node_models/ <br> .env </pre> <br><br>
+<pre> node_models/ <br> .env </pre> <br>
 
 **(XIII). git fetch:-** Downloads changes from remote repository without merging.<br>
-<pre> git fetch <br> git fetch origin <br> git fetch origin main </pre> <br><br>
+<pre> git fetch <br> git fetch origin <br> git fetch origin main </pre> <br>
 
 **(XIV). git merge:-** Combines changes from one branch into another.<br>
-<pre> git merge branch_Name </pre> <br><br>
+<pre> git merge branch_Name </pre>
 
 ---

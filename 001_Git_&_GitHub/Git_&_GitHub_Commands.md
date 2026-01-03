@@ -73,7 +73,7 @@
 <pre> git merge branch_Name </pre> <br>
 
 **(XV). git mv:-** Rename or move a file or folder in a Git repository while keeping its history.<br>
-<pre> git mv old-name new-name </pre> <br>
+<pre> git mv old-name new-name </pre>
 
 ---
 
@@ -102,4 +102,4 @@
 **5️⃣ Set Email for a Single Project (Local):-** <br>
 
 **(V). git config user.email:-** <br>
-<pre> git config user.email "projectemail@gmail.com" </pre> <br>
+<pre> git config user.email "projectemail@gmail.com" </pre>

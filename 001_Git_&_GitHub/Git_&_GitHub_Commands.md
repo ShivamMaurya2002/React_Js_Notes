@@ -79,15 +79,27 @@
 
 ## Git Username and Email Commands:-<br>
 
-**1️⃣ Set Username (Global):-**<br>
+**1️⃣ Set Username (Global):-** <br>
 
 **(I). git config --global user.name:-** Sets the username for all Git projects on your system.<br>
 <pre> git config --global user.name "Your Name" </pre>
 
-**2️⃣ Set Email (Global):-**<br>
+**2️⃣ Set Email (Global):-** <br>
 
 **(II). git config --global user.email:-** Sets the email for all commits. The email should match your GitHub account email.<br>
 <pre> git config --global user.email "youremail@gmail.com" </pre>
 
-**3️⃣ Check Username and Email:-** Check username and email.<br>
+**3️⃣ Check Username and Email:-** <br> 
+
+**(III). git config --global --list:-** Check username and email.<br>
 <pre> git config --global --list <br> Or <br> git config user.name <br> git config user.email </pre>
+
+**4️⃣ Set Username for a Single Project (Local):-** <br>
+
+**(IV). git config user.name:-**  Sets username for Single Repository.<br>
+<pre> git config user.name "Project User" </pre>
+
+**5️⃣ Set Email for a Single Project (Local):-** <br>
+
+**(V). git config user.email:-** <br>
+<pre> git config user.email "projectemail@gmail.com" </pre>

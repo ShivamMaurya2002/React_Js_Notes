@@ -69,7 +69,7 @@ React is widely used because it makes UI development easier, faster, and more or
 &nbsp; &nbsp; &nbsp; 🔹Easier debugging and testing.<br>
 
 5️⃣ State and Props <br>
-State: Manages component’s internal data.<br>
+&nbsp; &nbsp; &nbsp; State: Manages component’s internal data.<br>
 Props: Pass data from parent to child components.<br>
 
 6️⃣ Hooks <br>

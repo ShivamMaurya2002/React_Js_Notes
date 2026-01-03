@@ -76,3 +76,17 @@
 <pre> git mv old-name new-name </pre>
 
 ---
+
+## Git Username and Email Commands:-<br>
+
+**(1). 1️⃣ Set Username (Global):-**<br>
+
+**(I). git config --global user.name:-** Sets the username for all Git projects on your system.<br>
+<pre> git config --global user.name "Your Name" </pre>
+
+**(2). 1️⃣ Set Email (Global):-**<br>
+
+**(I). git config --global user.email:-** Sets the email for all commits. The email should match your GitHub account email.<br>
+<pre> git config --global user.email "youremail@gmail.com" </pre>
+
+

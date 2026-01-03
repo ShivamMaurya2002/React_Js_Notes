@@ -38,10 +38,11 @@ React is widely used because it makes UI development easier, faster, and more or
 &nbsp; &nbsp; &nbsp; 🔹Improves code reusability and maintainability. <br>
 
 <b> Example: </b> <br>
-
-&nbsp; &nbsp; &nbsp; function Button() { <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; return &lt;button&gt; Click Me &lt;/button&gt;; <br>
-&nbsp; &nbsp; &nbsp; } <br>
+<pre>
+&nbsp; &nbsp; &nbsp; function Button() { 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; return &lt;button&gt; Click Me &lt;/button&gt;;
+&nbsp; &nbsp; &nbsp; } 
+</pre>
 
 2️⃣ Virtual DOM<br>
 &nbsp; &nbsp; &nbsp; 🔹React creates a virtual copy of the real DOM.<br>

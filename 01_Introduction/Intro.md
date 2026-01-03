@@ -70,7 +70,7 @@ React is widely used because it makes UI development easier, faster, and more or
 
 5️⃣ State and Props <br>
 &nbsp; &nbsp; &nbsp; State: Manages component’s internal data.<br>
-Props: Pass data from parent to child components.<br>
+&nbsp; &nbsp; &nbsp; Props: Pass data from parent to child components.<br>
 
 6️⃣ Hooks <br>
 Introduced in React 16.8.<br>

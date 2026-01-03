@@ -1,4 +1,4 @@
-# Introduction to React
+## Introduction to React
 React JS is a JavaScript library used for building fast, interactive, and reusable user interfaces, especially for single-page applications (SPAs).
 It was developed by Facebook (Meta) and is widely used by companies like Netflix, Instagram, WhatsApp, Airbnb, and Uber.
 
@@ -50,10 +50,11 @@ React is widely used because it makes UI development easier, faster, and more or
 &nbsp; &nbsp; &nbsp; 🔹Results in faster performance.<br> 
 
 <b> Example: </b> <br>
-
+<pre>
 &nbsp; &nbsp; &nbsp; function Button() { <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; return &lt;button&gt; Click Me &lt;/button&gt;; <br>
 &nbsp; &nbsp; &nbsp; } <br>
+</pre>
 
 3️⃣ JSX (JavaScript XML) <br>
 &nbsp; &nbsp; &nbsp; 🔹JSX allows writing HTML inside JavaScript.<br>

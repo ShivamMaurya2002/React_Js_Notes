@@ -72,4 +72,7 @@
 **(XIV). git merge:-** Combines changes from one branch into another.<br>
 <pre> git merge branch_Name </pre>
 
+**(XV). git mv:-** git mv is used to rename or move a file or folder in a Git repository while keeping its history.<br>
+<pre> git mv old-name new-name </pre>
+
 ---

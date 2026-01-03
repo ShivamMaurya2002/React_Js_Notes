@@ -84,10 +84,14 @@ Allow using state and lifecycle features in functional components.<br>
 ---
 
 **Advantages of React JS:-** <br>
-
 &nbsp; &nbsp; &nbsp;🔹 Fast rendering using Virtual DOM.<br>
 &nbsp; &nbsp; &nbsp;🔹 Reusable components.<br>
 &nbsp; &nbsp; &nbsp;🔹 SEO-friendly.<br>
 &nbsp; &nbsp; &nbsp;🔹 Strong community support.<br>
 &nbsp; &nbsp; &nbsp;🔹 Easy to test and debug.<br>
 &nbsp; &nbsp; &nbsp;🔹 Used for large-scale applications.<br>
+
+**Disadvantages of React JS:-**<br>
+&nbsp; &nbsp; &nbsp;🔹 Only handles UI (needs other libraries for routing, state management).<br>
+&nbsp; &nbsp; &nbsp;🔹 JSX has a learning curve for beginners.<br>
+&nbsp; &nbsp; &nbsp;🔹 Frequent updates in the ecosystem.<br>

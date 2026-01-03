@@ -62,8 +62,9 @@ React is widely used because it makes UI development easier, faster, and more or
 &nbsp; &nbsp; &nbsp; 🔹Makes code more readable and expressive.<br>
 
 <b> Example: </b> <br>
-
-&nbsp; &nbsp; &nbsp; const element = &lt;h1&gt;Hello React&lt;/h1&gt;; <br>
+<pre>
+&nbsp; &nbsp; &nbsp; const element = &lt;h1&gt;Hello React&lt;/h1&gt;;
+</pre>
 
 4️⃣ One-Way Data Binding <br>
 &nbsp; &nbsp; &nbsp; 🔹Data flows from parent to child.<br>

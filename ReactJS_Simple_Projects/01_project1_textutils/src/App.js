@@ -4,7 +4,13 @@ import Navbar from './Components/Navbar';
 function App() {
   return (
     <>
-      <Navbar title="TextUtils" aboutText="About Us"/>
+
+      {/* For User Input */}
+      <Navbar title="TextUtils" aboutText="About Us" />
+
+      {/* For Default Value */}
+      {/* <Navbar /> */}
+
     </>
   );
 }

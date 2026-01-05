@@ -103,7 +103,8 @@ Allow using state and lifecycle features in functional components.<br>
 **6. Easy Testing:**<br>
 &nbsp; &nbsp; &nbsp;🔹 React components are independent, making them easier to test and debug.<br>
 
-**Disadvantages of React JS:-**<br>
-&nbsp; &nbsp; &nbsp;🔹 Only handles UI (needs other libraries for routing, state management).<br>
+## Disadvantages of React JS:-<br>
+**1. Learning Curve:**<br>
+&nbsp; &nbsp; &nbsp;🔹Concepts like JSX, hooks, and state management may be difficult for beginners.<br>
 &nbsp; &nbsp; &nbsp;🔹 JSX has a learning curve for beginners.<br>
 &nbsp; &nbsp; &nbsp;🔹 Frequent updates in the ecosystem.<br>

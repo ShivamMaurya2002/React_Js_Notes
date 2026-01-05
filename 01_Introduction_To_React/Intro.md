@@ -84,9 +84,11 @@ Allow using state and lifecycle features in functional components.<br>
 
 ---
 
-**Advantages of React JS:-** <br>
-&nbsp; &nbsp; &nbsp;🔹 Fast rendering using Virtual DOM.<br>
-&nbsp; &nbsp; &nbsp;🔹 Reusable components.<br>
+## Advantages of React JS:- <br>
+**1. Fast Performance:**<br>
+&nbsp; &nbsp; &nbsp;🔹 React improves performance by using the Virtual DOM, which minimizes direct DOM manipulation.<br>
+**2.Reusable components:**<br>
+&nbsp; &nbsp; &nbsp;🔹 <br>
 &nbsp; &nbsp; &nbsp;🔹 SEO-friendly.<br>
 &nbsp; &nbsp; &nbsp;🔹 Strong community support.<br>
 &nbsp; &nbsp; &nbsp;🔹 Easy to test and debug.<br>

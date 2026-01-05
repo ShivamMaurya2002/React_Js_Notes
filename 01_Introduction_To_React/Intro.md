@@ -17,23 +17,23 @@ React JS is an open-source, component-based JavaScript library used to create dy
 React is widely used because it makes UI development easier, faster, and more organized.
 
 **Before React:** <br>
-&nbsp; &nbsp; &nbsp; 🔹Developers directly manipulated the real DOM. <br>
-&nbsp; &nbsp; &nbsp; 🔹UI updates were slow and complex. <br>
-&nbsp; &nbsp; &nbsp; 🔹Code was hard to maintain for large applications. <br>
+&nbsp; &nbsp; &nbsp; 🔹 Developers directly manipulated the real DOM. <br>
+&nbsp; &nbsp; &nbsp; 🔹 UI updates were slow and complex. <br>
+&nbsp; &nbsp; &nbsp; 🔹 Code was hard to maintain for large applications. <br>
 
 **React solves these problems by:** <br>
-&nbsp; &nbsp; &nbsp; 🔹Using Virtual DOM. <br>
-&nbsp; &nbsp; &nbsp; 🔹Breaking UI into reusable components. <br>
-&nbsp; &nbsp; &nbsp; 🔹Making UI updates efficient and predictable. <br>
+&nbsp; &nbsp; &nbsp; 🔹 Using Virtual DOM. <br>
+&nbsp; &nbsp; &nbsp; 🔹 Breaking UI into reusable components. <br>
+&nbsp; &nbsp; &nbsp; 🔹 Making UI updates efficient and predictable. <br>
 
 ---
 
 ### Key Features of React JS  <br><br>
 
 1️⃣ Component-Based Architecture <br>
-&nbsp; &nbsp; &nbsp; 🔹UI is divided into small, reusable components. <br>
-&nbsp; &nbsp; &nbsp; 🔹Each component has its own logic and UI. <br>
-&nbsp; &nbsp; &nbsp; 🔹Improves code reusability and maintainability. <br>
+&nbsp; &nbsp; &nbsp; 🔹 UI is divided into small, reusable components. <br>
+&nbsp; &nbsp; &nbsp; 🔹 Each component has its own logic and UI. <br>
+&nbsp; &nbsp; &nbsp; 🔹 Improves code reusability and maintainability. <br>
 
 <b> Example: </b> <br>
 <pre>
@@ -44,9 +44,9 @@ React is widely used because it makes UI development easier, faster, and more or
 
 2️⃣ Virtual DOM<br>
 &nbsp; &nbsp; &nbsp; 🔹React creates a virtual copy of the real DOM.<br>
-&nbsp; &nbsp; &nbsp; 🔹Changes are first applied to the virtual DOM.<br>
-&nbsp; &nbsp; &nbsp; 🔹React compares (diffing) and updates only the changed parts.<br>
-&nbsp; &nbsp; &nbsp; 🔹Results in faster performance.<br> 
+&nbsp; &nbsp; &nbsp; 🔹 Changes are first applied to the virtual DOM.<br>
+&nbsp; &nbsp; &nbsp; 🔹 React compares (diffing) and updates only the changed parts.<br>
+&nbsp; &nbsp; &nbsp; 🔹 Results in faster performance.<br> 
 
 <b> Example: </b> <br>
 <pre>
@@ -56,8 +56,8 @@ React is widely used because it makes UI development easier, faster, and more or
 </pre>
 
 3️⃣ JSX (JavaScript XML) <br>
-&nbsp; &nbsp; &nbsp; 🔹JSX allows writing HTML inside JavaScript.<br>
-&nbsp; &nbsp; &nbsp; 🔹Makes code more readable and expressive.<br>
+&nbsp; &nbsp; &nbsp; 🔹 JSX allows writing HTML inside JavaScript.<br>
+&nbsp; &nbsp; &nbsp; 🔹 Makes code more readable and expressive.<br>
 
 <b> Example: </b> <br>
 <pre>
@@ -65,22 +65,22 @@ React is widely used because it makes UI development easier, faster, and more or
 </pre>
 
 4️⃣ One-Way Data Binding <br>
-&nbsp; &nbsp; &nbsp; 🔹Data flows from parent to child.<br>
-&nbsp; &nbsp; &nbsp; 🔹Makes application more predictable.<br>
-&nbsp; &nbsp; &nbsp; 🔹Easier debugging and testing.<br>
+&nbsp; &nbsp; &nbsp; 🔹 Data flows from parent to child.<br>
+&nbsp; &nbsp; &nbsp; 🔹 Makes application more predictable.<br>
+&nbsp; &nbsp; &nbsp; 🔹 Easier debugging and testing.<br>
 
 5️⃣ State and Props <br>
-&nbsp; &nbsp; &nbsp; <b>State:</b> Manages component’s internal data.<br>
-&nbsp; &nbsp; &nbsp; <b>Props:</b> Pass data from parent to child components.<br>
+&nbsp; &nbsp; &nbsp; 🔹<b>State:</b> Manages component’s internal data.<br>
+&nbsp; &nbsp; &nbsp; 🔹<b>Props:</b> Pass data from parent to child components.<br>
 
 6️⃣ Hooks <br>
 Introduced in React 16.8.<br>
 Allow using state and lifecycle features in functional components.<br>
-🔹Common Hooks:<br>
-&nbsp; &nbsp; &nbsp; 🔹useState<br>
-&nbsp; &nbsp; &nbsp; 🔹useEffect<br>
-&nbsp; &nbsp; &nbsp; 🔹useContext<br>
-&nbsp; &nbsp; &nbsp; 🔹useRef<br>
+🔹 Common Hooks:<br>
+&nbsp; &nbsp; &nbsp; 🔹 useState<br>
+&nbsp; &nbsp; &nbsp; 🔹 useEffect<br>
+&nbsp; &nbsp; &nbsp; 🔹 useContext<br>
+&nbsp; &nbsp; &nbsp; 🔹 useRef<br>
 
 ---
 

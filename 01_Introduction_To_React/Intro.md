@@ -145,3 +145,6 @@ Allow using state and lifecycle features in functional components.<br>
 
 ---
 
+## Popular Companies Using React<br>
+
+Many large companies use React because of its performance and scalability, such as <b>Facebook</b>, <b>Instagram</b>, <b>Netflix</b>, <b>Airbnb</b>, <b>WhatsApp Web</b>, and <b>Uber</b>.

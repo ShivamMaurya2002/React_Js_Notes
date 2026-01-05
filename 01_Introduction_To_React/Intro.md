@@ -13,6 +13,16 @@ React JS is an open-source, component-based JavaScript library used to create dy
 
 ---
 
+## Is React a Library or a Framework?<br>
+
+React is a JavaScript library, not a framework.<br>
+
+**Explanation:**<br>
+
+React focuses only on the user interface layer of an application. It does not provide built-in solutions for routing, state management, or HTTP requests, which makes it flexible and lightweight.
+
+---
+
 ## Why React JS Was Created?
 React is widely used because it makes UI development easier, faster, and more organized.
 

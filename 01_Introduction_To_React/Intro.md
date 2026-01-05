@@ -109,4 +109,6 @@ Allow using state and lifecycle features in functional components.<br>
 
 **2. Dependency on External Libraries:**<br>
 &nbsp; &nbsp; &nbsp;🔹 React needs additional libraries for routing, global state management, and form handling.<br>
-&nbsp; &nbsp; &nbsp;🔹 Frequent updates in the ecosystem.<br>
+
+**3. Frequent Updates:**<br>
+&nbsp; &nbsp; &nbsp;🔹 React evolves quickly, which can be confusing for new developers.<br>

@@ -106,5 +106,7 @@ Allow using state and lifecycle features in functional components.<br>
 ## Disadvantages of React JS:-<br>
 **1. Learning Curve:**<br>
 &nbsp; &nbsp; &nbsp;🔹Concepts like JSX, hooks, and state management may be difficult for beginners.<br>
-&nbsp; &nbsp; &nbsp;🔹 JSX has a learning curve for beginners.<br>
+
+**2. Dependency on External Libraries:**<br>
+&nbsp; &nbsp; &nbsp;🔹 React needs additional libraries for routing, global state management, and form handling.<br>
 &nbsp; &nbsp; &nbsp;🔹 Frequent updates in the ecosystem.<br>

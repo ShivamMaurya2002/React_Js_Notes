@@ -141,10 +141,21 @@ Allow using state and lifecycle features in functional components.<br>
 &nbsp; &nbsp; &nbsp;🔹 React evolves quickly, which can be confusing for new developers.<br>
 
 **4. Not a Complete Solution:**<br>
-&nbsp; &nbsp; &nbsp;🔹React alone cannot build a full application without other tools.
+&nbsp; &nbsp; &nbsp;🔹 React alone cannot build a full application without other tools.
 
 ---
 
 ## Popular Companies Using React<br>
 
 Many large companies use React because of its performance and scalability, such as <b>Facebook</b>, <b>Instagram</b>, <b>Netflix</b>, <b>Airbnb</b>, <b>WhatsApp Web</b>, and <b>Uber</b>.
+
+---
+
+## React Ecosystem:-<br>
+
+The React ecosystem includes libraries and tools that work with React, such as:<br>
+&nbsp; &nbsp; &nbsp;🔹 <b>React Router</b> for navigation.<br>
+&nbsp; &nbsp; &nbsp;🔹 <b>Redux</b> and <b>Zustand</b> for state management.<br>
+&nbsp; &nbsp; &nbsp;🔹 <b>Next.js</b> for server-side rendering.<br>
+&nbsp; &nbsp; &nbsp;🔹 <b>Axios</b> and <b>Fetch</b> for API calls.<br>
+&nbsp; &nbsp; &nbsp;🔹 <b>Tailwind CSS</b> and Material UI for styling.

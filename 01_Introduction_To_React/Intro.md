@@ -44,6 +44,17 @@ React provides a component-based approach and uses the Virtual DOM, whereas trad
 
 ---
 
+## Where React JS Is Used<br>
+React JS is widely used to build:-<br>
+&nbsp; &nbsp; &nbsp; 🔹 Single Page Applications<br>
+&nbsp; &nbsp; &nbsp; 🔹 Dashboards<br>
+&nbsp; &nbsp; &nbsp; 🔹 Social media platforms<br>
+&nbsp; &nbsp; &nbsp; 🔹 E-commerce websites<br>
+&nbsp; &nbsp; &nbsp; 🔹 Admin panels<br>
+&nbsp; &nbsp; &nbsp; 🔹 Real-time web applications<br>
+
+---
+
 ## Key Features of React JS  <br>
 
 1️⃣ Component-Based Architecture <br>

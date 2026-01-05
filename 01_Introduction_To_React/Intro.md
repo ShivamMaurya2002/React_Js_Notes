@@ -28,7 +28,13 @@ React is widely used because it makes UI development easier, faster, and more or
 
 ---
 
-### Key Features of React JS  <br><br>
+## React JS vs Traditional JavaScript
+
+React provides a component-based approach and uses the Virtual DOM, whereas traditional JavaScript directly manipulates the real DOM, which can reduce performance in large applications.
+
+---
+
+## Key Features of React JS  <br>
 
 1️⃣ Component-Based Architecture <br>
 &nbsp; &nbsp; &nbsp; 🔹 UI is divided into small, reusable components. <br>

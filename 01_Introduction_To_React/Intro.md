@@ -159,3 +159,11 @@ The React ecosystem includes libraries and tools that work with React, such as:<
 &nbsp; &nbsp; &nbsp;🔹 <b>Next.js</b> for server-side rendering.<br>
 &nbsp; &nbsp; &nbsp;🔹 <b>Axios</b> and <b>Fetch</b> for API calls.<br>
 &nbsp; &nbsp; &nbsp;🔹 <b>Tailwind CSS</b> and Material UI for styling.
+
+---
+
+## Career Scope of React JS:-<br>
+High demand in frontend development<br>
+&nbsp; &nbsp; &nbsp;🔹 Used in startups and MNCs.<br>
+&nbsp; &nbsp; &nbsp;🔹 Good salary packages.<br>
+&nbsp; &nbsp; &nbsp;🔹 Required for Full Stack Development.<br>

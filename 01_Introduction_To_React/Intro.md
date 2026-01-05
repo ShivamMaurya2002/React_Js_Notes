@@ -112,3 +112,9 @@ Allow using state and lifecycle features in functional components.<br>
 
 **3. Frequent Updates:**<br>
 &nbsp; &nbsp; &nbsp;🔹 React evolves quickly, which can be confusing for new developers.<br>
+
+**4. Not a Complete Solution:**<br>
+&nbsp; &nbsp; &nbsp;🔹React alone cannot build a full application without other tools.
+
+---
+

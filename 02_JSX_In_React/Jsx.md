@@ -6,4 +6,5 @@ JSX makes React code easier to read, write, and understand.<br>
 
 **Example:-**<br>
 
-<pre> const element = <h1>Hello world!!</h1> </pre>
+<pre>const element = &lt;h1&gt;Hello World&lt;/h1&gt;;</pre>
+

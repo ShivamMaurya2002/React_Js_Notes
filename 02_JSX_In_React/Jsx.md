@@ -11,15 +11,15 @@ JSX makes React code easier to read, write, and understand.<br>
 
 ## Why JSX is Used in React?<br>
 JSX is used because:<br>
-&nbsp; &nbsp; &nbsp; 🔹 It combines UI (HTML) and logic (JavaScript) in one place.<br>
+&nbsp; &nbsp; &nbsp; 🔹 JSX combines UI (HTML) and logic (JavaScript) in one place.<br>
 &nbsp; &nbsp; &nbsp; 🔹 Code becomes clean and readable.<br>
 &nbsp; &nbsp; &nbsp; 🔹 Easier to create dynamic content.<br>
 &nbsp; &nbsp; &nbsp; 🔹 Helps React understand UI structure clearly.<br>
 
-**Without JSX:**
+**Code Without JSX:**
 <pre> &nbsp; &nbsp; React.createElement("h1", null, "Hello World"); </pre>
 
-**With JSX:**
+**Code With JSX:**
 <pre> &nbsp; &nbsp; &lt;h1&gt;Hello World&lt;/h1&gt; </pre>
 
 &nbsp; &nbsp; ✔ JSX reduces complexity.<br>
@@ -30,6 +30,7 @@ JSX is used because:<br>
 ---
 
 ## How JSX Works Internally?<br>
+
 
 
 

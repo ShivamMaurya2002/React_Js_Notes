@@ -17,6 +17,7 @@ JSX is used because:<br>
 &nbsp; &nbsp; &nbsp; 🔹 Helps React understand UI structure clearly.<br>
 
 **Without JSX:**
-<pre> React.createElement("h1", null, "Hello World"); </pre>
+<pre> &nbsp; &nbsp; &nbsp; React.createElement("h1", null, "Hello World"); </pre>
+
 
 

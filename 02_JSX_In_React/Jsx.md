@@ -1,11 +1,11 @@
 ## JSX In React:-<br>
-JSX stands for JavaScript XML, is a syntax extension for JavaScript used in React.<br>
+JSX stands for JavaScript XML. It is a syntax extension for JavaScript used in React.<br>
 JSX allows us to write HTML-like code inside JavaScript.<br>
 
 JSX makes React code easier to read, write, and understand.<br>
 
 **Example:-**
-<pre>&nbsp; &nbsp; const element = &lt;h1&gt;Hello World&lt;/h1&gt;;</pre>
+<pre> &nbsp; &nbsp; const element = &lt;h1&gt;Hello World&lt;/h1&gt;; </pre>
 
 ---
 
@@ -30,6 +30,7 @@ JSX is used because:<br>
 ---
 
 ## How JSX Works Internally?<br>
+
 
 
 

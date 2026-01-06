@@ -8,3 +8,7 @@ JSX makes React code easier to read, write, and understand.<br>
 
 <pre>const element = &lt;h1&gt;Hello World&lt;/h1&gt;;</pre>
 
+---
+
+## Why JSX is Used in React?<br>
+JSX is used because:

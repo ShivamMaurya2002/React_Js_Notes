@@ -19,6 +19,8 @@ JSX is used because:<br>
 **Without JSX:**
 <pre> &nbsp; &nbsp; React.createElement("h1", null, "Hello World"); </pre>
 
+**With JSX:**
+<pre> &nbsp; &nbsp; &lt;h1&gt;Hello World&lt;/h1&gt; </pre>
 
 
 

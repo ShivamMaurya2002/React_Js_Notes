@@ -30,8 +30,3 @@ JSX is used because:<br>
 ---
 
 ## How JSX Works Internally?<br>
-
-
-
-
-

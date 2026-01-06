@@ -27,3 +27,9 @@ JSX is used because:<br>
 
 **👉 JSX is not compulsory, but almost every React project uses it.** <br>
 
+---
+
+## How JSX Works Internally?<br>
+
+
+

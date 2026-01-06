@@ -22,5 +22,8 @@ JSX is used because:<br>
 **With JSX:**
 <pre> &nbsp; &nbsp; &lt;h1&gt;Hello World&lt;/h1&gt; </pre>
 
+&nbsp; &nbsp; ✔ JSX reduces complexity.<br>
+&nbsp; &nbsp; ✔ Improves developer productivity.<br>
 
+**👉 JSX is not compulsory, but almost every React project uses it.** <br>
 

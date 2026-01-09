@@ -41,4 +41,4 @@ JSX Process:<br>
 &nbsp; &nbsp; &nbsp; 🔹 React renders them to the DOM.<br>
 
 **JSX Code:**<br>
-<pre> const element = &lt;h1&gt;Hello!!!&lt;/h1&gt; </pre>
+<pre> &nbsp; &nbsp; const element = &lt;h1&gt;Hello!!!&lt;/h1&gt; </pre>

@@ -48,3 +48,5 @@ JSX Process:<br>
 ---
 
 ## JSX Rules (Most Important): <br>
+
+These rules are very commonly asked in interviews.<br>

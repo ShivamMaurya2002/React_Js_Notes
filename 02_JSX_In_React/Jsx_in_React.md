@@ -51,4 +51,4 @@ JSX Process:<br>
 
 These rules are very commonly asked in interviews.<br>
 
-**Rule 1:** JSX Must Have One Parent Element.
+**Rule 1:** JSX Must Have One Parent Element.<br>

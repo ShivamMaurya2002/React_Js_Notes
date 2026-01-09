@@ -46,4 +46,9 @@ JSX Process:<br>
 **Converted Code:** <br>
 <pre> &nbsp; &nbsp; const element = react.createElement("h1", null, "hello")</pre>
 
-**Note:** 👉 So JSX is just syntactic sugar for **React.createElement()**.
+**Note:** 👉 So JSX is just syntactic sugar for **React.createElement()**.<br>
+
+---
+
+## JSX Rules (Most Important): <br>
+

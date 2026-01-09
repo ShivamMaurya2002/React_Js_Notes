@@ -30,11 +30,9 @@ JSX is used because:<br>
 ---
 
 ## How JSX Works Internally?<br>
-
 JSX does not run directly in the browser.<br>
 
 JSX Process:<br>
-
 &nbsp; &nbsp; &nbsp; 🔹 JSX is written by the developer.<br>
 &nbsp; &nbsp; &nbsp; 🔹 Babel converts JSX into JavaScript.<br>
 &nbsp; &nbsp; &nbsp; 🔹 JavaScript creates React elements.<br>
@@ -42,7 +40,6 @@ JSX Process:<br>
 
 **JSX Code:** <br>
 <pre> &nbsp; &nbsp; const element = &lt;h1&gt;Hello!!!&lt;/h1&gt; </pre>
-
 **Converted Code:** <br>
 <pre> &nbsp; &nbsp; const element = react.createElement("h1", null, "hello")</pre>
 
@@ -51,4 +48,3 @@ JSX Process:<br>
 ---
 
 ## JSX Rules (Most Important): <br>
-

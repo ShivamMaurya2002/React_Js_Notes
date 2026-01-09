@@ -31,4 +31,6 @@ JSX is used because:<br>
 
 ## How JSX Works Internally?<br>
 
-JSX does not run directly in the browser.
+JSX does not run directly in the browser.<br>
+
+JSX Process:

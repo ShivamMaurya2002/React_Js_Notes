@@ -61,3 +61,4 @@ These rules are very commonly asked in interviews.<br>
 **OR**<br>
 **Using Fragment:** <br>
 <pre> &nbsp; &nbsp; &lt;&gt; <br> &nbsp; &nbsp; &nbsp; &nbsp; &lt;h1&gt;Hello, friends&lt;/h1&gt; <br> &nbsp; &nbsp; &nbsp; &nbsp; &lt;p&gt;It is React tutorial.&lt;/p&gt; <br> &nbsp; &nbsp; &lt;/&gt; </pre>
+**Note:** ✔ Fragment avoids extra <div> in DOM.<br>

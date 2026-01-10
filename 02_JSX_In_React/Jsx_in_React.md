@@ -54,3 +54,6 @@ These rules are very commonly asked in interviews.<br>
 **Rule 1:** JSX Must Have One Parent Element.<br>
 
 JSX must return a single root element.<br>
+
+**Wrong way to right JSX:**<br>
+<pre> &lt;h1&gt;Hello!!!&lt;/h1&gt; </pre>

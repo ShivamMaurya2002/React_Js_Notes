@@ -50,7 +50,7 @@ JSX Process:<br>
 ## JSX Rules (Most Important): <br>
 These rules are very commonly asked in interviews.<br>
 
-**Rule 1:** JSX Must Have One Parent Element.<br>
+## Rule 1: JSX Must Have One Parent Element.<br>
 &nbsp; &nbsp; JSX must return a single root element.<br>
 **Wrong way to right JSX:**<br>
 <pre> &nbsp; &nbsp; &lt;h1&gt;Hello!!!&lt;/h1&gt; <br> &nbsp; &nbsp; &lt;p&gt;React&lt;/p&gt; </pre>

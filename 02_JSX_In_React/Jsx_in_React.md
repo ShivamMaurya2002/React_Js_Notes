@@ -56,4 +56,4 @@ These rules are very commonly asked in interviews.<br>
 JSX must return a single root element.<br>
 
 **Wrong way to right JSX:**<br>
-<pre> &lt;h1&gt;Hello!!!&lt;/h1&gt; </pre>
+<pre> &lt;h1&gt;Hello!!!&lt;/h1&gt; <br> &lt;p&gt;Its React tutorial.&lt;/p&gt;</pre>

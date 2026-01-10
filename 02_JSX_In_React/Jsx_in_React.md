@@ -56,5 +56,5 @@ These rules are very commonly asked in interviews.<br>
 <pre> &nbsp; &nbsp; &lt;h1&gt;Hello!!!&lt;/h1&gt; <br> &nbsp; &nbsp; &lt;p&gt;Its React tutorial.&lt;/p&gt; </pre>
 
 **Correct way to write:** <br>
-<pre>  &lt;div&gt; <br> &nbsp; &nbsp; &lt;h1&gt;Hello!!, friends&lt;/h1&gt; <br> &nbsp; &nbsp; &lt;p&gt;Its React tutorial.&lt;/p&gt;  &lt;/div&gt; </pre>
+<pre>  &lt;div&gt; <br> &nbsp; &nbsp; &lt;h1&gt;Hello!!, friends&lt;/h1&gt; <br> &nbsp; &nbsp; &lt;p&gt;Its React tutorial.&lt;/p&gt; <br> &lt;/div&gt; </pre>
 

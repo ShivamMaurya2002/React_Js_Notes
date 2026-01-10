@@ -53,11 +53,11 @@ These rules are very commonly asked in interviews.<br>
 **Rule 1:** JSX Must Have One Parent Element.<br>
 &nbsp; &nbsp; JSX must return a single root element.<br>
 **Wrong way to right JSX:**<br>
-<pre> &nbsp; &nbsp; &lt;h1&gt;Hello!!!&lt;/h1&gt; <br> &nbsp; &nbsp; &lt;p&gt;Its React tutorial.&lt;/p&gt; </pre>
+<pre> &nbsp; &nbsp; &lt;h1&gt;Hello!!!&lt;/h1&gt; <br> &nbsp; &nbsp; &lt;p&gt;React&lt;/p&gt; </pre>
 
 **Correct way to write:** <br>
-<pre> &nbsp; &nbsp; &lt;div&gt; <br> &nbsp; &nbsp; &nbsp; &nbsp; &lt;h1&gt;Hello!!, friends&lt;/h1&gt; <br> &nbsp; &nbsp; &nbsp; &nbsp; &lt;p&gt;Its React tutorial.&lt;/p&gt; <br> &nbsp; &nbsp; &lt;/div&gt; </pre>
+<pre> &nbsp; &nbsp; &lt;div&gt; <br> &nbsp; &nbsp; &nbsp; &nbsp; &lt;h1&gt;Hello, friends&lt;/h1&gt; <br> &nbsp; &nbsp; &nbsp; &nbsp; &lt;p&gt;It is React tutorial.&lt;/p&gt; <br> &nbsp; &nbsp; &lt;/div&gt; </pre>
 
 **OR**<br>
 **Using Fragment:** <br>
-<pre> &nbsp; &nbsp; &lt;&gt; <br> &nbsp; &nbsp; &nbsp; &nbsp; &lt;h1&gt;Hello!!, friends&lt;/h1&gt; <br> &nbsp; &nbsp; &nbsp; &nbsp; &lt;p&gt;Its React tutorial.&lt;/p&gt; <br> &nbsp; &nbsp; &lt;/&gt; </pre>
+<pre> &nbsp; &nbsp; &lt;&gt; <br> &nbsp; &nbsp; &nbsp; &nbsp; &lt;h1&gt;Hello, friends&lt;/h1&gt; <br> &nbsp; &nbsp; &nbsp; &nbsp; &lt;p&gt;It is React tutorial.&lt;/p&gt; <br> &nbsp; &nbsp; &lt;/&gt; </pre>

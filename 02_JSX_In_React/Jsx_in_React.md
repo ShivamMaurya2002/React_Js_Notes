@@ -68,9 +68,9 @@ JSX must return a single root element.<br>
 ## Rule 2: Use className (not class):<br>
 In JSX we need to write **className** instead of **class** because **class** is a Reserved word in **JavaScript**.
 
-**✅ Correct:**<br><br>
+**✅ Correct:**<br>
 <pre>  &nbsp; &nbsp; &lt;h1 className="title"&gt;Hello&lt;/h1&gt; </pre>
 
-**❌ Wrong:**<br><br>
+**❌ Wrong:**<br>
 <pre>  &nbsp; &nbsp; &lt;h1 class="title"&gt;Hello&lt;/h1&gt; </pre>
 

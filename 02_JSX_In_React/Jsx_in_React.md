@@ -66,7 +66,7 @@ JSX must return a single root element.<br>
 **Note:** ✔ Fragment avoids extra &lt;div&gt; in DOM.<br>
 
 ## Rule 2: Use className (not class):<br>
-In JSX we need to write **className** instead of **class** because **class** is a Reserved word in **JavaScript**.<br>
+In JSX we need to write **className** instead of **class** because **class** is a Reserved word in **JavaScript**.<br><br>
 
 **✅ Correct:**<br>
 <pre>  &nbsp; &nbsp; &lt;h1 className="title"&gt;Hello&lt;/h1&gt; </pre>

@@ -65,4 +65,4 @@ JSX must return a single root element.<br>
 <pre> &nbsp; &nbsp; &lt;&gt; <br> &nbsp; &nbsp; &nbsp; &nbsp; &lt;h1&gt;Hello, friends&lt;/h1&gt; <br> &nbsp; &nbsp; &nbsp; &nbsp; &lt;p&gt;It is React tutorial.&lt;/p&gt; <br> &nbsp; &nbsp; &lt;/&gt; </pre>
 **Note:** ✔ Fragment avoids extra &lt;div&gt; in DOM.<br>
 
-## Rule 2: .<br>
+## Rule 2: Use className (not class) .<br>

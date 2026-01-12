@@ -75,6 +75,6 @@ In JSX we need to write **className** instead of **class** because **class** is 
 <pre>  &nbsp; &nbsp; &lt;h1 class="title"&gt;Hello&lt;/h1&gt; </pre>
 
 **Reason:**<br>
-**class** is a JavaScript keyword.<br><br>
+Because **class** is a JavaScript keyword.<br><br>
 
 ## Rule 3: Close every tag:<br>

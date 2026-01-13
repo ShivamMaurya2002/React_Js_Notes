@@ -77,3 +77,4 @@ In JSX we need to write **className** instead of **class** because **class** is 
 **Reason:** Because **class** is a JavaScript keyword.<br><br>
 
 ## Rule 3: Close every tag:<br>
+

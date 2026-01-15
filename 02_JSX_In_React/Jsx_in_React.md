@@ -79,4 +79,4 @@ In JSX we need to write **className** instead of **class** because **class** is 
 
 ## Rule 3: Close every tag:<br>
 
-
+Every tag must be closed properly.

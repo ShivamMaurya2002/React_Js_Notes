@@ -85,3 +85,4 @@ Every tag must be closed properly.<br>
 <pre>  &nbsp; &nbsp; &lt;img src="logo.png"&gt;</pre>
 
 **✅ Correct:**<br>
+<pre>  &nbsp; &nbsp; &lt;img src="logo.png" /&gt; <br> &lt;input type="text" /&gt; </pre>

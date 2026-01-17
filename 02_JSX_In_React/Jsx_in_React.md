@@ -87,5 +87,4 @@ Every tag must be closed properly.<br>
 <pre>  &nbsp; &nbsp; &lt;img src="logo.png" /&gt; <br>  &nbsp; &nbsp; &lt;input type="text" /&gt; </pre><br>
 
 ## Rule 5: JSX Supports Expressions, Not Statements:<br>
-
 JSX allows dynamic data rendering.<br>

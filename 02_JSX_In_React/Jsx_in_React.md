@@ -89,4 +89,7 @@ Every tag must be closed properly.<br>
 ## Rule 4: JSX with JavaScript Expressions:<br>
 JSX allows dynamic data rendering.<br>
 
-<pre> const a = 10; <br> const b = 20; <br> &lt;h1&gt; Sum is {a + b} &lt;/h1&gt;</pre>
+<pre> &nbsp; &nbsp; const a = 10; <br> &nbsp; &nbsp; const b = 20; <br> &nbsp; &nbsp; &lt;h1&gt; Sum is {a + b} &lt;/h1&gt;</pre>
+
+**Allowed inside {}:**<br>
+

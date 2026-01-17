@@ -90,4 +90,4 @@ Every tag must be closed properly.<br>
 JSX allows dynamic data rendering. To use JavaScript, put it inside { }.<br>
 
 **❌ Not Allowed:**
-<pre> const a = 10; <br> const b = 20; <br> &lt;h1&gt;Sum is {a + b} &lt;/h1&gt;</pre>
+<pre> const a = 10; <br> const b = 20; <br> &lt;h1&gt; Sum is {a + b} &lt;/h1&gt;</pre>

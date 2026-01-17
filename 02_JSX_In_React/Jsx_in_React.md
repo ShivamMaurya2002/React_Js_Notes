@@ -86,8 +86,7 @@ Every tag must be closed properly.<br>
 **✅ Correct:**<br>
 <pre>  &nbsp; &nbsp; &lt;img src="logo.png" /&gt; <br>  &nbsp; &nbsp; &lt;input type="text" /&gt; </pre><br>
 
-## Rule 5: JSX Supports Expressions, Not Statements:<br>
-JSX allows dynamic data rendering. To use JavaScript, put it inside { }.<br>
+## Rule 4: JSX with JavaScript Expressions:<br>
+JSX allows dynamic data rendering.<br>
 
-**❌ Not Allowed:**
 <pre> const a = 10; <br> const b = 20; <br> &lt;h1&gt; Sum is {a + b} &lt;/h1&gt;</pre>

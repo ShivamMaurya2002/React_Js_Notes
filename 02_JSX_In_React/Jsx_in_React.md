@@ -92,4 +92,7 @@ JSX allows dynamic data rendering.<br>
 <pre> &nbsp; &nbsp; const a = 10; <br> &nbsp; &nbsp; const b = 20; <br> &nbsp; &nbsp; &lt;h1&gt; Sum is {a + b} &lt;/h1&gt;</pre>
 
 **Allowed inside {}:**<br>
-
+&nbsp; &nbsp; &nbsp; 🔹 Mathematical expressions
+&nbsp; &nbsp; &nbsp; 🔹 Function calls
+&nbsp; &nbsp; &nbsp; 🔹 Ternary operators
+&nbsp; &nbsp; &nbsp; 🔹 Array methods like map()

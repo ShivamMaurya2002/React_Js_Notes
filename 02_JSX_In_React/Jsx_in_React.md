@@ -86,10 +86,10 @@ Every tag must be closed properly.<br>
 **✅ Correct:**<br>
 <pre>  &nbsp; &nbsp; &lt;img src="logo.png" /&gt; <br>  &nbsp; &nbsp; &lt;input type="text" /&gt; </pre><br>
 
-## Rule 4: JSX with JavaScript Expressions:<br>
-JSX allows dynamic data rendering.<br>
+## Rule 4: JavaScript Inside { }:<br>
+To write JavaScript in JSX, use curly braces {}.<br>
 
-<pre> &nbsp; &nbsp; const a = 10; <br> &nbsp; &nbsp; const b = 20; <br> &nbsp; &nbsp; &lt;h1&gt; Sum is {a + b} &lt;/h1&gt;</pre>
+<pre> &nbsp; &nbsp; const name = "Shivam"; <br> &nbsp; &nbsp;  &lt;h1&gt;Hello {name}&lt;/h1&gt;</pre>
 
 **Allowed inside { }:**<br>
 &nbsp; &nbsp;🔹 Mathematical expressions <br>

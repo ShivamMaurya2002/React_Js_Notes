@@ -89,7 +89,7 @@ Every tag must be closed properly.<br>
 ## Rule 4: JavaScript Inside { }:<br>
 To write JavaScript in JSX, use curly braces {}.<br>
 
-<pre> &nbsp; &nbsp; const name = "Shivam"; <br> &nbsp; &nbsp;  &lt;h1&gt;Hello {name}&lt;/h1&gt;</pre>
+<pre> &nbsp; &nbsp; const name = "Shivam"; <br> &nbsp; &nbsp; &lt;h1&gt;Hello {name}&lt;/h1&gt;</pre>
 
 **Allowed inside { }:**<br>
 &nbsp; &nbsp;🔹 Mathematical expressions <br>

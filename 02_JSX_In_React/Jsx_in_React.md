@@ -91,9 +91,9 @@ To write JavaScript in JSX, use curly braces {}.<br>
 
 <pre> &nbsp; &nbsp; const name = "Shivam"; <br> &nbsp; &nbsp; &lt;h1&gt;Hello {name}&lt;/h1&gt;</pre>
 
-**Allowed inside { }:**<br>
-&nbsp; &nbsp;🔹 Mathematical expressions <br>
+**You can write::**<br>
+&nbsp; &nbsp;🔹 Variables <br>
+&nbsp; &nbsp;🔹 Expressions <br>
 &nbsp; &nbsp;🔹 Function calls <br>
-&nbsp; &nbsp;🔹 Ternary operators <br>
-&nbsp; &nbsp;🔹 Array methods like map() 
+&nbsp; &nbsp;🔹 ❌ Statements not allowed (if, for).<br>
 

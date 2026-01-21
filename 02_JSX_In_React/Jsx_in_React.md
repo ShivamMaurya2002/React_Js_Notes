@@ -97,6 +97,7 @@ To write JavaScript in JSX, use curly braces {}.<br>
 &nbsp; &nbsp;🔹 Function calls <br>
 ❌ Statements not allowed (if, for).<br>
 
+
 ## Rule 5: JSX Supports Expressions, Not Statements: <br>
 
 **❌ Not Allowed:**

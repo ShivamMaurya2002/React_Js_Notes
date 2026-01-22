@@ -102,3 +102,7 @@ To write JavaScript in JSX, use curly braces {}.<br>
 <pre>&nbsp; &nbsp; if (true) { } </pre>
 **✅ Allowed:** 
 <pre>&nbsp; &nbsp; {isLoggedIn && &lt;h1&gt;Welcome&lt;/h1&gt;} </pre>
+
+---
+
+## JSX with JavaScript Expressions:- 

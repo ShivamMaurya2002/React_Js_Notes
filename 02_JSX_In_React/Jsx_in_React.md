@@ -98,8 +98,10 @@ To write JavaScript in JSX, use curly braces {}.<br>
 ❌ Statements not allowed (if, for).<br>
 
 ## Rule 5: JSX Supports Expressions, Not Statements: <br>
+
 **❌ Not Allowed:**
 <pre>&nbsp; &nbsp; if (true) { } </pre>
+
 **✅ Allowed:** 
 <pre>&nbsp; &nbsp; {isLoggedIn && &lt;h1&gt;Welcome&lt;/h1&gt;} </pre> <br>
 

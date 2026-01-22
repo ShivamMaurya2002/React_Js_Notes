@@ -101,7 +101,7 @@ To write JavaScript in JSX, use curly braces {}.<br>
 **❌ Not Allowed:**
 <pre>&nbsp; &nbsp; if (true) { } </pre>
 **✅ Allowed:** 
-<pre>&nbsp; &nbsp; {isLoggedIn && &lt;h1&gt;Welcome&lt;/h1&gt;} </pre>
+<pre>&nbsp; &nbsp; {isLoggedIn && &lt;h1&gt;Welcome&lt;/h1&gt;} </pre> <br>
 
 ---
 

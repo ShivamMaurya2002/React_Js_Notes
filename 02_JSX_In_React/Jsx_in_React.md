@@ -105,4 +105,5 @@ To write JavaScript in JSX, use curly braces {}.<br>
 
 ---
 
-## JSX with JavaScript Expressions:- 
+## JSX with JavaScript Expressions:- <br>
+

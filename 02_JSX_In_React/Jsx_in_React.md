@@ -70,6 +70,7 @@ JSX must return a single root element.<br>
 
 ## Rule 2: Use className (not class):<br>
 In JSX we need to write **className** instead of **class** because **class** is a Reserved word in **JavaScript**.<br><br>
+
 **❌ Wrong:**<br>
 <pre>  &nbsp; &nbsp; &lt;h1 class="title"&gt;Hello&lt;/h1&gt; </pre>
 
@@ -110,4 +111,3 @@ To write JavaScript in JSX, use curly braces {}.<br>
 
 ## JSX with JavaScript Expressions:- <br>
 JSX allows dynamic data rendering.<br>
-

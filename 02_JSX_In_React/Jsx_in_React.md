@@ -110,3 +110,4 @@ To write JavaScript in JSX, use curly braces {}.<br>
 
 ## JSX with JavaScript Expressions:- <br>
 JSX allows dynamic data rendering.<br>
+

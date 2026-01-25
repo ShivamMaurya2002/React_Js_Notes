@@ -112,3 +112,9 @@ To write JavaScript in JSX, use curly braces {}.<br>
 JSX allows dynamic data rendering.<br>
 
 <pre>&nbsp; &nbsp; const a = 10;<br>&nbsp; &nbsp; const b = 20;<br>&nbsp; &nbsp; &lt;h1&gt;Sum is {a + b}&lt;/h1&gt;</pre>
+
+**Allowed inside {}:**<br>
+&nbsp; &nbsp;🔹Mathematical expressions<br>
+&nbsp; &nbsp;🔹Function calls<br>
+&nbsp; &nbsp;🔹Ternary operators<br>
+&nbsp; &nbsp;🔹Array methods like map()<br>

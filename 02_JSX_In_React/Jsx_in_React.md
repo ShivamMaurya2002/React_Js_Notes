@@ -118,3 +118,6 @@ JSX allows dynamic data rendering.<br>
 &nbsp; &nbsp;🔹Function calls<br>
 &nbsp; &nbsp;🔹Ternary operators<br>
 &nbsp; &nbsp;🔹Array methods like map()<br>
+
+---
+

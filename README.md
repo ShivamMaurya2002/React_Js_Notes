@@ -1,4 +1,3 @@
-
 # ⚛️ React JS Notes
 
 This repository contains my **React JS learning notes**.  

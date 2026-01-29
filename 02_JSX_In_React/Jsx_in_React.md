@@ -120,3 +120,4 @@ JSX allows dynamic data rendering.<br>
 &nbsp; &nbsp;🔹Array methods like map()<br>
 
 ---
+

@@ -4,6 +4,7 @@ JSX allows us to write HTML-like code inside JavaScript.<br>
 
 JSX makes React code easier to read, write, and understand.<br>
 
+
 **Example:-**
 <pre> &nbsp; &nbsp; const element = &lt;h1&gt;Hello World&lt;/h1&gt;; </pre>
 

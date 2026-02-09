@@ -38,7 +38,6 @@ JSX Process:<br>
 &nbsp; &nbsp; &nbsp; 🔹 React renders them to the DOM.<br>
 
 **JSX Code:** <br>
-
 <pre> &nbsp; &nbsp; const element = &lt;h1&gt;Hello!!!&lt;/h1&gt; </pre>
 **Converted Code:** <br>
 <pre> &nbsp; &nbsp; const element = react.createElement("h1", null, "hello")</pre>

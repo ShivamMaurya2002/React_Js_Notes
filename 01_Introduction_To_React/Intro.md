@@ -87,9 +87,7 @@ React JS is widely used to build:-<br>
 &nbsp; &nbsp; &nbsp; 🔹 Makes code more readable and expressive.<br>
 
 <b> Example: </b> <br>
-<pre>
-&nbsp; &nbsp; &nbsp; const element = &lt;h1&gt;Hello React&lt;/h1&gt;;
-</pre>
+<pre> &nbsp; &nbsp; &nbsp; const element = &lt;h1&gt;Hello React&lt;/h1&gt;; </pre>
 
 4️⃣ One-Way Data Binding <br>
 &nbsp; &nbsp; &nbsp; 🔹 Data flows from parent to child.<br>
@@ -146,13 +144,11 @@ Allow using state and lifecycle features in functional components.<br>
 ---
 
 ## Popular Companies Using React<br>
-
 Many large companies use React because of its performance and scalability, such as <b>Facebook</b>, <b>Instagram</b>, <b>Netflix</b>, <b>Airbnb</b>, <b>WhatsApp Web</b>, and <b>Uber</b>.
 
 ---
 
 ## React Ecosystem:-<br>
-
 The React ecosystem includes libraries and tools that work with React, such as:<br>
 &nbsp; &nbsp; &nbsp;🔹 <b>React Router</b> for navigation.<br>
 &nbsp; &nbsp; &nbsp;🔹 <b>Redux</b> and <b>Zustand</b> for state management.<br>

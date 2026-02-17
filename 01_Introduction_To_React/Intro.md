@@ -162,7 +162,6 @@ The React ecosystem includes libraries and tools that work with React, such as:<
 
 ---
 
-
 ## Career Scope of React JS:-<br>
 High demand in frontend development<br>
 &nbsp; &nbsp; &nbsp;🔹 Used in startups and MNCs.<br>

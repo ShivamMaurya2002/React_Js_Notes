@@ -123,3 +123,5 @@ JSX allows dynamic data rendering.<br>
 
 ## JSX with Conditional Rendering:- <br>
 React does not allow direct if inside JSX, so we use expressions.
+
+## 1. Using Ternary Operator:-<br>

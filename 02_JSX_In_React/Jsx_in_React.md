@@ -122,6 +122,6 @@ JSX allows dynamic data rendering.<br>
 ---
 
 ## JSX with Conditional Rendering:- <br>
-React does not allow direct <b>if</b> inside JSX, so we use expressions.
+React does not allow direct <pre>if</pre> inside JSX, so we use expressions.
 
 ## 1. Using Ternary Operator:-<br>

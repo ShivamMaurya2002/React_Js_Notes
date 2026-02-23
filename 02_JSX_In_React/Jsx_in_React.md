@@ -126,7 +126,7 @@ React does not allow direct <b>if</b> inside JSX, so we use expressions. <br><br
 
 **1. Using Ternary (?) Operator:-** <br>
 <pre>&nbsp; &nbsp; &nbsp; {isLoggedIn ? &lt;h1&gt;Welcome&lt;/h1&gt; : &lt;h1&gt;Please Login&lt;/h1&gt;} </pre>
-**Note:-** Best when two conditions exist.<br>
+**Note:-** Best when two conditions exist.<br><br>
 
 **2. Using AND (&&) Operator:-**
 

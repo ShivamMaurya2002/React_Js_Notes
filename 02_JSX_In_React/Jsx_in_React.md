@@ -134,4 +134,4 @@ React does not allow direct <b>if</b> inside JSX, so we use expressions. <br><br
 
 ---
 
-## JSX with Conditional Rendering:- <br>
+## JSX with Lists and map():- <br>

@@ -128,5 +128,6 @@ React does not allow direct <b>if</b> inside JSX, so we use expressions. <br><br
 <pre>&nbsp; &nbsp; &nbsp; {isLoggedIn ? &lt;h1&gt;Welcome&lt;/h1&gt; : &lt;h1&gt;Please Login&lt;/h1&gt;} </pre>
 **Note:-** Best when two conditions exist.<br><br>
 
-**2. Using AND (&&) Operator:-**
+**2. Using AND (&&) Operator:-** <br>
+<pre>&nbsp; &nbsp; &nbsp; {isAdmin && &lt;h1&gt;Admin Panel&lt;/h1&gt;} </pre>
 

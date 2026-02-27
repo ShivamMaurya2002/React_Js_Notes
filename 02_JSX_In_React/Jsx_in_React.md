@@ -132,3 +132,6 @@ React does not allow direct <b>if</b> inside JSX, so we use expressions. <br><br
 <pre>&nbsp; &nbsp; &nbsp; {isAdmin && &lt;h1&gt;Admin Panel&lt;/h1&gt;}</pre>
 **Note:-** Best when only true condition needs UI. <br><br>
 
+---
+
+## JSX with Conditional Rendering:- <br>

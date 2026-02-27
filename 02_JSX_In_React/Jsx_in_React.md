@@ -129,5 +129,5 @@ React does not allow direct <b>if</b> inside JSX, so we use expressions. <br><br
 **Note:-** Best when two conditions exist.<br><br>
 
 **2. Using AND (&&) Operator:-** <br>
-<pre>&nbsp; &nbsp; &nbsp; {isAdmin && &lt;h1&gt;Admin Panel&lt;/h1&gt;} </pre>
+<pre>&nbsp; &nbsp; &nbsp; {isAdmin && &lt;h1&gt;Admin Panel&lt;/h1&gt;}</pre>
 

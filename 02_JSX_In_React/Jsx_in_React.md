@@ -1,4 +1,3 @@
-
 ## JSX In React:-<br>
 JSX stands for JavaScript XML. 
 It is a syntax extension for JavaScript used in React.<br>

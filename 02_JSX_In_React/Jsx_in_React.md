@@ -43,7 +43,7 @@ JSX Process:<br>
 **Converted Code:** <br>
 <pre> &nbsp; &nbsp; const element = react.createElement("h1", null, "hello")</pre>
 
-**Note:** 👉 So JSX is just syntactic sugar for **React.createElement()**.<br>
+**Note:** So JSX is just syntactic sugar for **React.createElement()**.<br>
 
 ---
 
@@ -65,7 +65,7 @@ JSX must return a single root element.<br>
 
 <pre> &nbsp; &nbsp; &lt;&gt; <br> &nbsp; &nbsp; &nbsp; &nbsp; &lt;h1&gt;Hello, friends&lt;/h1&gt; <br> &nbsp; &nbsp; &nbsp; &nbsp; &lt;p&gt;It is React tutorial.&lt;/p&gt; <br> &nbsp; &nbsp; &lt;/&gt; </pre>
 
-**Note:** ✔ Fragment avoids extra &lt;div&gt; in DOM.<br><br>
+**Note:** Fragment avoids extra &lt;div&gt; in DOM.<br><br>
 
 ## Rule 2: Use className (not class):<br>
 In JSX we need to write **className** instead of **class** because **class** is a Reserved word in **JavaScript**.<br><br>

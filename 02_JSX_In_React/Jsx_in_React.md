@@ -5,7 +5,7 @@ JSX allows us to write HTML-like code inside JavaScript.<br>
 JSX makes React code easier to read, write, and understand.<br>
 
 **Example:-**
-<pre> &nbsp; &nbsp; const ele = &lt;h1&gt;Hello World&lt;/h1&gt;; </pre>
+<pre> &nbsp; &nbsp; const element = &lt;h1&gt;Hello World&lt;/h1&gt;; </pre>
 
 ---
 
@@ -39,9 +39,9 @@ JSX Process:<br>
 &nbsp; &nbsp; &nbsp; 🔹 React renders them to the DOM.<br>
 
 **JSX Code:** <br>
-<pre> &nbsp; &nbsp; const ele = &lt;h1&gt;Hello!!!&lt;/h1&gt; </pre>
+<pre> &nbsp; &nbsp; const element = &lt;h1&gt;Hello!!!&lt;/h1&gt; </pre>
 **Converted Code:** <br>
-<pre> &nbsp; &nbsp; const ele = react.createElement("h1", null, "hello")</pre>
+<pre> &nbsp; &nbsp; const element = react.createElement("h1", null, "hello")</pre>
 
 **Note:** 👉 So JSX is just syntactic sugar for **React.createElement()**.<br>
 
